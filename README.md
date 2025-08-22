@@ -13,7 +13,7 @@ How to use:
 2. Add the file path .exe path to your enviroment variables so that the script can run the FontForge on its own.
 This is usually in "C:\Program Files (x86)\FontForgeBuilds\bin".
 3. Inside your TTF_Injector folder, put your .svg files inside the svg folder.
-4. Open the mapping.json and define which .svg file sud be inserted into which codepoint
+4. Open the mapping.json and define which .svg file sud be inserted into which codepoint.
 Example:
   [
     "emote_sunglasses.svg", //SVG file
@@ -25,7 +25,8 @@ Example:
   ],
 
 5.Now put your .ttf file you wanna change into the TTF_Injector folder.
-6. run the "run windows" .bat file
+6. run the "run windows" .bat file.
+
 7. Enjoy letter conversion!
 
 
