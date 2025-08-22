@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <circle cx="500" cy="500" r="430"/>
+  <path d="M180 420 h240 v80 h-240 z M580 420 h240 v80 h-240 z"/>
+  <path d="M300 460 h400 v20 h-400 z"/>
+  <path d="M260 660 q240 160 480 0 v80 q-240 120 -480 0 z"/>
+</svg>
